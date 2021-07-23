@@ -10,7 +10,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2021. 8 | Computer Science Engineering | **Konkuk University** |
 | **Employment** | 2019. 7 ~ 2020. 1 | SW Engineer | **Seoul Internet** |
-| **Personal Project** | 2020. 2 ~ 7 | Application, Web SW Engineer | **Konkuk Univ. Vet.** |
+| **Personal Project** | 2021. 2 ~ 7 | Application, Web SW Engineer | **Konkuk Univ. Vet.** |
 
 ### :cyclone: Languages
 <!--![ReactNative]()-->
