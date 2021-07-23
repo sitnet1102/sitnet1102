@@ -30,7 +30,5 @@ HTML
 -->
 
 ### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sitnet1102@gmail.com)](mailto:sitnet1102@gmail.com) 
-<!--
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://davinci-ai.tistory.com/) 
--->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sitnet1102@gmail.com)](mailto:sitnet1102@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ju-n-o.tistory.com/)](https://ju-n-o.tistory.com/) 
+
