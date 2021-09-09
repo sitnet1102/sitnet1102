@@ -8,9 +8,9 @@
 
 | **Type** | **Date** | **Contents** | **Organization** | **Reference Repositories** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2014. 3 ~ 2021. 8 | Computer Science Engineering | **Konkuk University** | [Operating System](https://github.com/sitnet1102/Operating_System), [Embedded System Software](https://github.com/sitnet1102/Embedded_System_Software), [Team Project](https://github.com/sitnet1102/project2_bank_system), [Data Structure](https://github.com/sitnet1102/data_structure), [Embeded System Hardware](https://github.com/sitnet1102/Vivado_coding), [Algorithm](https://github.com/sitnet1102/AlgorithmQuiz) |
-| **Employment** | 2019. 7 ~ 2020. 1 | SW Engineer | **Seoul Internet** | |
-| **Personal Project** | 2021. 2 ~ 7 | Application, Web SW Engineer | **Konkuk Univ. Vet.** | |
+| **:mortar_board: Education** | 2014. 3 ~ 2021. 8 | Computer Science Engineering | **Konkuk University** | [Operating System](https://github.com/sitnet1102/Operating_System), [Embedded System Software](https://github.com/sitnet1102/Embedded_System_Software), [Team Project(Python)](https://github.com/sitnet1102/project2_bank_system), [Data Structure](https://github.com/sitnet1102/data_structure), [Embeded System Hardware](https://github.com/sitnet1102/Vivado_coding), [Algorithm](https://github.com/sitnet1102/AlgorithmQuiz), [Team Project(VR)](https://github.com/sitnet1102/MazeRunner) |
+| **Employment** | 2019. 7 ~ 2020. 1 | SW Engineer | **Seoul Internet** | x |
+| **Personal Project** | 2021. 2 ~ 7 | Application, Web SW Engineer | **Konkuk Univ. Vet.** | [Application](https://github.com/sitnet1102/konkuk_veterinary), [Web](https://github.com/sitnet1102/vet_SPACE_Web) |
 
 ### :cyclone: Languages
 <!--![ReactNative]()-->
