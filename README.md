@@ -6,7 +6,7 @@
 
 ### &#9998; Career
 
-| **Type** | **Date** | **Contents** | **Organization** | **Reference** |
+| **Type** | **Date** | **Contents** | **Organization** | **Reference Repositories** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2021. 8 | Computer Science Engineering | **Konkuk University** | [Operating System](https://github.com/sitnet1102/Operating_System), [Embedded System Software](https://github.com/sitnet1102/Embedded_System_Software), [Team Project](https://github.com/sitnet1102/project2_bank_system), [Data Structure](https://github.com/sitnet1102/data_structure), [Embeded System Hardware](https://github.com/sitnet1102/Vivado_coding), [Algorithm](https://github.com/sitnet1102/AlgorithmQuiz) |
 | **Employment** | 2019. 7 ~ 2020. 1 | SW Engineer | **Seoul Internet** | |
