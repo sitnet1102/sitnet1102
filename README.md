@@ -20,7 +20,7 @@
 [C++](https://isocpp.org/), 
 [Android](https://developer.android.com/about/versions/11?gclid=Cj0KCQjwqKuKBhCxARIsACf4XuF46bVGP5xc0XoQj_Ps6eou01Rp323Ai3owRARCL-qizLdgYsTwnuUaAv8lEALw_wcB&gclsrc=aw.ds), 
 [iOS](https://developer.apple.com/swift/), 
-[React](https://reactjs.org/),  
+[React](https://reactjs.org/), 
 [Python](https://www.python.org/)
 
 
