@@ -11,6 +11,7 @@
 | **:mortar_board: Education** | 2014. 3 ~ 2022. 2 | Computer Science Engineering | **Konkuk University** | [Algorithm](https://github.com/sitnet1102/AlgorithmQuiz), [Data Structure](https://github.com/sitnet1102/data_structure), [Operating System](https://github.com/sitnet1102/Operating_System), [Embedded System Software](https://github.com/sitnet1102/Embedded_System_Software), [Embeded System Hardware](https://github.com/sitnet1102/Vivado_coding), [Team Project(VR)](https://github.com/sitnet1102/MazeRunner), [Team Project(Python)](https://github.com/sitnet1102/project2_bank_system)|
 | **Employment** | 2019. 7 ~ 2020. 1 | SW Engineer | **Seoul Internet** | - |
 | **Project** | 2021. 2 ~ 7 | Application, Web SW Engineer | **Konkuk Univ. Vet.** | [Application](https://github.com/sitnet1102/konkuk_veterinary), [Web](https://github.com/sitnet1102/vet_SPACE_Web) |
+| **Employment** | 2022. 1 ~  | SW Engineer, DevOps | **LG CNS** | - |
 
 ### :cyclone: Languages
 <!--![ReactNative]()-->
