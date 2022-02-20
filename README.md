@@ -22,8 +22,8 @@
 [Android](https://developer.android.com/about/versions/11?gclid=Cj0KCQjwqKuKBhCxARIsACf4XuF46bVGP5xc0XoQj_Ps6eou01Rp323Ai3owRARCL-qizLdgYsTwnuUaAv8lEALw_wcB&gclsrc=aw.ds), 
 [iOS](https://developer.apple.com/swift/), 
 [React](https://reactjs.org/), 
-[Python](https://www.python.org/)
-[Spring](https://spring.io/)
+[Python](https://www.python.org/),
+[Spring](https://spring.io/),
 [Servlet](https://www.javatpoint.com/servlet-tutorial)
 
 
